@@ -10,7 +10,7 @@ Confira se a soma dos números é maior que 10 ou menor que 20.
 Retorne uma string dizendo "Os números num1 e num2 não/são iguais. 
 Sua soma é soma, que é maior/menor que 10 e maior/menor que 20".
 
-Tipos
+Variáveis e Tipos
 
 Atividade 1) Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
 
